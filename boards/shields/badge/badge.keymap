@@ -9,11 +9,11 @@
 
             bindings = <
                 &kp A
-                &kp D
-                &kp W
                 &kp S
-                &studio_unlock    
+                &kp D
+                &kp W    
                 &kp SPACE
+                &studio_unlock
             >;
         };
     };
