@@ -10,8 +10,8 @@
             bindings = <
                 &kp A
                 &kp S
-                &kp D
-                &kp W    
+                &kp W
+                &kp D    
                 &kp SPACE
                 &studio_unlock
             >;
