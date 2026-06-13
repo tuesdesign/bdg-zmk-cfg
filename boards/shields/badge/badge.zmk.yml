@@ -3,7 +3,7 @@ id: badge
 name: TuesBadge
 type: shield
 url: https://github.com/tuesdesign/bdg-zmk-cfg/
-requires: [seeeduino_xiao_rp2040]
+requires: [seeeduino_xiao_ble]
 features:
   - keys
   - studio
