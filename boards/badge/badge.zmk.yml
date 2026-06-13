@@ -1,0 +1,9 @@
+file_format: "1"
+id: badge
+name: TuesBadge
+type: shield
+url: https://github.com/tuesdesign/bdg-zmk-cfg/
+requires: [xiao_rp2040]
+features:
+  - keys
+  - studio
