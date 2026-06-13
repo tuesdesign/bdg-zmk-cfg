@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: xiao_rp2040
+  - board: seeeduino_xiao_rp2040
     shield: badge
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
